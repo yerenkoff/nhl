@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/nhl/static/css/main.675cb58b.css",
-    "main.js": "/nhl/static/js/main.9ae08dae.js",
+    "main.js": "/nhl/static/js/main.8224f0d9.js",
     "static/js/787.597f56fc.chunk.js": "/nhl/static/js/787.597f56fc.chunk.js",
     "index.html": "/nhl/index.html",
     "main.675cb58b.css.map": "/nhl/static/css/main.675cb58b.css.map",
-    "main.9ae08dae.js.map": "/nhl/static/js/main.9ae08dae.js.map",
+    "main.8224f0d9.js.map": "/nhl/static/js/main.8224f0d9.js.map",
     "787.597f56fc.chunk.js.map": "/nhl/static/js/787.597f56fc.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.675cb58b.css",
-    "static/js/main.9ae08dae.js"
+    "static/js/main.8224f0d9.js"
   ]
 }
